@@ -18,12 +18,3 @@ No training or fine-tuning was performed.
 This project focuses only on **learning YOLO inference** and understanding how object detection models work.
 
 ---
-
-
-## 📝 Notes 
-Future steps will include:
-- Training YOLO on a custom dataset  
-- OCR  
-- Face Recognition  
-
----
